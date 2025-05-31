@@ -1,4 +1,4 @@
-package mytodo
+package main
 
 import "fmt"
 
