@@ -1,4 +1,4 @@
-package github.com/jamilnoyda/golang-module
+package main
 
 import "fmt"
 
